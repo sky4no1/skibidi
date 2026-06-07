@@ -1,4 +1,5 @@
 return {
+  ['WarTycoon'] = {4639625707},
   ['TheStrongestBattlegrounds'] = {10449761463},
   ['BloxFruits'] = {2753915549, 85211729168715, 4442272183, 79091703265657, 7449423635, 100117331123089},
   ['JujutsuShinenigans'] = {9391468976},
