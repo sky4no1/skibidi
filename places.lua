@@ -1,4 +1,5 @@
 return {
+  ['Forsaken'] = {18687417158},
   ['Fisch'] = {16732694052},
   ['WarTycoon'] = {4639625707},
   ['TheStrongestBattlegrounds'] = {10449761463},
