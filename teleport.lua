@@ -1,7 +1,7 @@
 local AllIDs = {}
 local foundAnything = ""
 local S_T = game:GetService("TeleportService")
-local S_H = cloneref(game:GetService("HttpService"))
+local S_H = game:GetService("HttpService")
 local S_P = cloneref(game:GetService("Players"))
 
 local File = pcall(function()
