@@ -51,7 +51,7 @@ end
 
 function Teleport(placeId)
 	while task.wait(1) do
-    DeleteTemp()
+    	DeleteTemp()
 		pcall(function()
 			TPReturner(placeId)
 			if foundAnything ~= "" then
