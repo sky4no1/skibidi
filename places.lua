@@ -1,4 +1,5 @@
 return {
+  ['GrowAGarden2'] = {97598239454123},
   ['HeroesBattlegrounds'] = {13076380114},
   ['Forsaken'] = {18687417158, 83645629621104},
   ['Fisch'] = {16732694052},
